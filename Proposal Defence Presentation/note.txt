@@ -1,0 +1,20 @@
+Title: Gender and Taliban Ideology: Pashtun, Women’s Education and Politics in Afghanistan
+Questions: 
+1- Did gender and ethnicity affect people's responses to the Taliban's ideology on women's education of political participation in Afghanistan?
+2- Pashtun across Afghanistan respond to the Taliban’s ideology on women’s education and political participation
+
+Hypothesis: 
+H1- Women are more likely to disagree with the Taliban's ideology?
+H2- Pashtuns are more likely to agree with the Taliban’s ideology as a means to support the power of their ethnic group?
+Application programming interface (API); 
+Natural language Processing (NLP), and valence Aware Dictionary and sEntiment Reasoner (VADER) 
+
+The independent variable in this study are: gender and ethnicity
+The dependent variable in this study are: agree and disagree.
+
+From  pak Afri, three things have to be considred:
+Research questions
+Theoritcal Framework
+Hypothesis
+
+the signficant of study
